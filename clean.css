@@ -1,0 +1,60 @@
+* { padding: 0; margin: 0; }
+body,td,input,select {color:#000;font-size:11px;font-family:Arial,Helvetica,sans-serif;}
+body {background:#024f7b url(images/bg4.jpg) top center repeat-y;}
+
+.search-bold {color: #0d477f;font-weight:bold;font-size:12px;}
+.button {background-image: url(http://affiliate.travelnow.com/searchboximages/btn-green-bg.gif); color: #FFFFFF; font-weight: bold; font-size: 11px;border-bottom:none;border-top:none;border-left:none;border-right:none;height:16px;cursor:hand}
+.bannerborder {border: solid 1px #000000;}
+.switcheroo-border { background: #EEF3F9;}
+
+#wrapper { 
+ margin: 0 auto;
+ width: 770px;
+}
+#header {
+ color: #333;
+ width: 770px;
+ float: left;
+ padding: 0px;
+ border: 1px solid #ccc;
+ height: 193px;
+ margin: 0px 0px 0px 0px;
+ background: #FFFFFF;
+}
+#leftcolumn { 
+ color: #333;
+ border-left: 1px solid #ccc;
+ border-right: 1px solid #ccc;
+ background: #FFFFFF;
+ margin: 0px 0px 0px 0px;
+ padding-top: 2px;
+ padding-bottom: 10px;
+ padding-left: 5px;
+ padding-right: 5px;
+ height: 950px;
+ width: 205px;
+ float: left;
+}
+#content { 
+font-family:Arial,Helvetica,sans-serif;
+ float: left;
+ color: #333;
+ background: #FFFFFF;
+ margin: 0px 0px 0px 0px;
+ padding-top: 2px;
+ padding-bottom: 10px;
+ height: 950px;
+ width: 552px;
+ display: inline;
+ border-right: 1px solid #ccc;
+}
+#footerdown { 
+ width: 750px;
+ clear: both;
+ color: #ffffff;
+ border: 1px solid #ccc;
+ background: #143D55;
+ margin: 20px 0px 10px 0px;
+ padding: 10px;
+ z-index: 5;
+}
